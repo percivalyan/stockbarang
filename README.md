@@ -32,4 +32,4 @@ Tabel Masuk (masuk):
 Tabel Keluar (keluar):
 ![image](https://github.com/percivalyan/stockbarang/assets/150053025/4bb4fe57-7824-4aab-83e3-6f5afa920b8d)
 
-Projek dari Mata Kuliah Sistem Berkas.
+Tugas proyek membuat aplikasi yang berhubungan dengan pengelolaan data dari Mata Kuliah Sistem Berkas.
