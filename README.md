@@ -29,5 +29,7 @@ Tabel Stock (stock):
 Tabel Masuk (masuk):
 ![image](https://github.com/percivalyan/stockbarang/assets/150053025/0b85f453-4335-4b4f-9d8d-dd7ff00aa1ae)
 
-Tabel Keluar (keluar)
+Tabel Keluar (keluar):
 ![image](https://github.com/percivalyan/stockbarang/assets/150053025/4bb4fe57-7824-4aab-83e3-6f5afa920b8d)
+
+Projek dari Mata Kuliah Sistem Berkas.
